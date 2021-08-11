@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="true">
+  <test name="Test">
+    <classes>
+      <class name="com.testing.AppTest"/>
+      <class name="com.testing.ExtentReportWithTestNGDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
